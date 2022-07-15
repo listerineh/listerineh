@@ -1,23 +1,19 @@
 <h1 align="center">Hi 👋, I'm Sebastian Alvarez</h1>
-<h3 align="center">Ecuadorian young programmer looking to learn new things. ✌️</h3>
+<p align="center">I'm an ecuadorian software engeneering student and developer. I consider myself a person who enjoys learning new things, meeting people from different places and sharing technical and personal experiences to grow mutually. I love technology and enjoy learning about it and I'm also an amateur musician so I can play guitar, bass and piano.✌️</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=listerineh&color=272c75&style=for-the-badge" alt="listerineh" /> </p>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=listerineh&color=272c75&style=for-the-badge" alt="listerineh" /> </div>
+<div align="center"><img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" /></div>
 
-- 🔭 I’m currently working on **work, university & personal cool projects.**
-
-- 🌱 I’m currently learning **React for frontend & Django for backend.**
-
-- 👯 I’m looking to collaborate on **IA, Web & Gamming projects arround the world.**
-
-- 🤝 I’m looking for help with **security improvement.**
-
-- 👨‍💻 All of my info and projects are available at [https://listerineh.vercel.app/](https://listerineh.vercel.app/)
-
-- 💬 Ask me about **algorithms, music & cats.**
-
-- 📫 How to reach me **sebask8er.alvarez@gmail.com**
-
-- ⚡ Fun fact **I always play with my finger-skateboard at the office.**
+<ul>
+  <li>🔭 I’m currently working on <strong>work, university & personal cool projects</strong>.</li>
+  <li>🌱 I’m currently learning <strong>React for frontend & Django for backend</strong>.</li>
+  <li>👯 I’m looking to collaborate on <strong>IA, Web & Gamming projects arround the world</strong>.</li>
+  <li>🤝 I’m looking for help with <strong>security improvement</strong>.</li>
+  <li>👨‍💻 All of my info and projects are available at <strong><a href="https://listerineh.vercel.app/" target="_blank">my personal web page</a></strong>.</li>
+  <li>💬 Ask me about <strong>algorithms, music & cats</strong>.</li>
+  <li>📫 How to reach me <strong><a href="mailto:sebask8er.alvarez@gmail.com" target="_blank">sebask8er.alvarez@gmail.com</a><strong>.</li>
+    <li>⚡ Fun fact <strong>I always play with my finger-skateboard at the office</strong>.</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
