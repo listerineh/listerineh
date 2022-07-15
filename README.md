@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 *I'm looking to learn new things & collaborate with people around the world!*
+*If you have a crazy idea just let me know ;)*
 
 - 🔭 I’m currently working on work, university & personal cool projects.
 - 🌱 I’m currently learning React & Django.
