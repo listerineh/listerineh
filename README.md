@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sebastian Alvarez</h1>
-<p align="center">I'm an ecuadorian software engeneering student and developer. I consider myself a person who enjoys learning new things, meeting people from different places and sharing technical and personal experiences to grow mutually. I love technology and enjoy learning about it and I'm also an amateur musician so I can play guitar, bass and piano.✌️</p>
+<p align="center">I'm an ecuadorian software engeneering student and profesional developer. I consider myself a person who enjoys learning new things, meeting people from different places and sharing technical and personal experiences to grow mutually. I love technology and enjoy learning about it and I'm also an amateur musician so I can play guitar, bass and piano.✌️</p>
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=listerineh&color=272c75&style=for-the-badge" alt="listerineh" /> </div>
 <div align="center"><img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" /></div>
