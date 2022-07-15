@@ -4,6 +4,7 @@
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=listerineh&color=272c75&style=for-the-badge" alt="listerineh" /> </div>
 <div align="center"><img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" /></div>
 
+<h3 align="left">About me:</h3>
 <ul>
   <li>🔭 I’m currently working on <strong>work, university & personal cool projects</strong>.</li>
   <li>🌱 I’m currently learning <strong>React for frontend & Django for backend</strong>.</li>
@@ -12,7 +13,7 @@
   <li>👨‍💻 All of my info and projects are available at <strong><a href="https://listerineh.vercel.app/" target="_blank">my personal web page</a></strong>.</li>
   <li>💬 Ask me about <strong>algorithms, music & cats</strong>.</li>
   <li>📫 How to reach me <strong><a href="mailto:sebask8er.alvarez@gmail.com" target="_blank">sebask8er.alvarez@gmail.com</a><strong>.</li>
-    <li>⚡ Fun fact <strong>I always play with my finger-skateboard at the office</strong>.</li>
+  <li>⚡ Fun fact <strong>I always play with my finger-skateboard at the office</strong>.</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
