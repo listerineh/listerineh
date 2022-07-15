@@ -1,5 +1,6 @@
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=listerineh&color=green&style=for-the-badge)
 
+### Hi there 👋 
 *I'm looking to learn new things & collaborate with people around the world!*
 
 *If you have a crazy idea just let me know ;)*
