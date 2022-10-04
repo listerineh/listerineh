@@ -3,25 +3,8 @@
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=listerineh&color=272c75&style=for-the-badge" alt="listerineh" /></div><br />
 <div align="center"><img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" /></div>
-
-#
-
-<h3 align="left">About me:</h3>
-<ul>
-  <li>🔭 I’m currently working on <strong>work, university & personal cool projects</strong>.</li>
-  <li>🌱 I’m currently learning <strong>React for frontend & Django for backend</strong>.</li>
-  <li>👯 I’m looking to collaborate on <strong>IA, Web & Gamming projects arround the world</strong>.</li>
-  <li>🤝 I’m looking for help with <strong>security improvement</strong>.</li>
-  <li>👨‍💻 All of my info and projects are available at <strong><a href="https://listerineh.vercel.app/" target="_blank">my personal web page</a></strong>.</li>
-  <li>💬 Ask me about <strong>algorithms, music & cats</strong>.</li>
-  <li>📫 How to reach me <strong><a href="mailto:sebask8er.alvarez@gmail.com" target="_blank">sebask8er.alvarez@gmail.com</a><strong>.</li>
-  <li>⚡ Fun fact <strong>I always play with my finger-skateboard at the office</strong>.</li>
-</ul>
-
-#
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<br />
+<div align="center">
   <a href="https://linkedin.com/in/listerineh" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="listerineh" height="30" width="40" />
   </a>
@@ -34,12 +17,12 @@
   <a href="https://www.hackerrank.com/sebask8er_alvar1" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sebask8er_alvar1" height="30" width="40" />
   </a>
-</p>
+</div>
 
 #
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center">Languages and Tools</h3>
+<div align="center"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
@@ -66,7 +49,6 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a> 
-  
   
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
@@ -99,13 +81,20 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a> 
-</p>
+</div>
 
+# 
+
+<h3 align="center">Overview</h3>
+<div align="center">
+  <img src="https://github.com/listerineh/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+  <img src="https://github.com/listerineh/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</div>
+ 
 #
 
-<h3 align="left">Support:</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/listerineh" target="_blank"> 
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="listerineh" />
+<div align="center">
+  <a href="https://www.data-card-for-spotify.com/card?user_id=6reoot6eyso3rcv1mjgtams2r">
+    <img src="https://www.data-card-for-spotify.com/api/card?user_id=6reoot6eyso3rcv1mjgtams2r&show_border=true" alt="Data Card for Spotify">
   </a>
-</p>
+</div>
