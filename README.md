@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sebastian Alvarez</h1>
-<p align="center">I'm a 23 year old software engineering student and professional developer from Ecuador. My interests in the world of technology are oriented to the development of Progressive Web Applications, Mobile Applications, REST APIs, Microservices and I am getting into Artificial Intelligence making applications based on Computer Vision. I'm also an amateur musician who performs Lo-Fi music and plays guitar, bass, ukulele and piano.✌️</p>
+<p align="center">I'm a Fullstack Software Engineer from Ecuador. My interests are oriented to Progressive Web and Mobile Applications, REST APIs, Microservices and I am getting into Artificial Intelligence making Computer Vision apps and Chat GPT integrations. I'm also an amateur musician who performs Lo-Fi music and plays guitar, bass, ukulele and piano.✌️</p>
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=listerineh&color=272c75&style=for-the-badge" alt="listerineh" /></div><br />
 <div align="center"><img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" /></div>
