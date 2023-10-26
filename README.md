@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sebastian Alvarez</h1>
-<p align="center">I'm a Fullstack Software Engineer from Ecuador. My interests are oriented to Progressive Web and Mobile Applications, REST APIs, Microservices and I am getting into Artificial Intelligence making Computer Vision apps and Chat GPT integrations. I'm also an amateur musician who performs Lo-Fi music and plays guitar, bass, ukulele and piano.✌️</p>
+<h1 align="center">Hello there! 👋</h1>
+<p align="center">I'm a dedicated Fullstack Software Engineer based in Ecuador, passionate about creating innovative solutions for Progressive Web and Mobile Applications, REST APIs, and Microservices. My recent journey has led me into the fascinating world of Artificial Intelligence, where I specialize in developing Computer Vision applications and integrating Chat GPT for intelligent conversations just for fun.</p>
+
+<p align="center">Beyond my technical endeavors, I'm also a multi-talented musician, proficient in playing guitar, bass, ukulele, and piano. I channel my creativity into crafting soul-soothing Lo-Fi music, bringing a harmonious balance to my life.✌️</p>
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=listerineh&color=272c75&style=for-the-badge" alt="listerineh" /></div><br />
 <div align="center"><img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" /></div>
@@ -89,12 +91,4 @@
 <div align="center">
   <img src="https://github.com/listerineh/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
   <img src="https://github.com/listerineh/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-</div>
- 
-#
-
-<div align="center">
-  <a href="https://www.data-card-for-spotify.com/card?user_id=6reoot6eyso3rcv1mjgtams2r">
-    <img src="https://www.data-card-for-spotify.com/api/card?user_id=6reoot6eyso3rcv1mjgtams2r&show_border=true" alt="Data Card for Spotify">
-  </a>
 </div>
