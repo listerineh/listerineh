@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sebastian Alvarez! 👋</h1>
 
 <p align="center">
-  <strong>Senior Fullstack Software Engineer | GDG Quito Organizer | Vibe Coder</strong>
+  <strong>Senior Fullstack Software Engineer | Tech Lead | GDG Quito Organizer</strong>
 </p>
 
 <p align="center">
@@ -11,6 +11,9 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=listerineh&color=272c75&style=for-the-badge" alt="listerineh" />
 </div>
+
+>[!IMPORTANT]
+> **Activity Note:** Most of my recent professional work is hosted on private **Bitbucket** and **GitLab** instances. My GitHub contributions might not fully reflect my daily activity, but I'm still active here for open-source and personal experiments! 🚀
 
 ---
 
